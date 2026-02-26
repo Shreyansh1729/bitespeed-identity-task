@@ -1,8 +1,0 @@
-[build]
-builder = "NIXPACKS"
-buildCommand = "npm install && npx prisma migrate deploy && npm run build"
-
-[deploy]
-startCommand = "npm start"
-healthcheckPath = "/identify"
-healthcheckTimeout = 100
