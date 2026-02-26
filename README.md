@@ -243,9 +243,3 @@ curl -X POST https://YOUR-APP-URL.up.railway.app/identify \
 7. Click **New Variable** -> select `DATABASE_URL` -> link it to your PostgreSQL database.
 8. Go to **Settings** -> **Networking** -> click **Generate Domain** to get your public API URL.
 9. Done!
-
----
-
-## 📬 Submission
-
-Submitted via: [BiteSpeed Task Submission Form](https://forms.gle/hsQBJQ8tzbsp53D77)
